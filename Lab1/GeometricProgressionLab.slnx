@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeometricProgressionApp/GeometricProgressionApp.csproj" />
+  <Project Path="GeometricProgressionTests/GeometricProgressionTests.csproj" />
+</Solution>
