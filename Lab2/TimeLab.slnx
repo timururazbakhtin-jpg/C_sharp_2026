@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TimeConsoleApp/TimeConsoleApp.csproj" />
+  <Project Path="TimeLibrary/TimeLibrary.csproj" />
+  <Project Path="TimeTests/TimeTests.csproj" />
+</Solution>
